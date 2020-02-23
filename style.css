@@ -1,0 +1,96 @@
+
+
+/* Background Images of Pages */
+
+/*Login Page BG*/
+
+.bgimage{
+	background-image: url("img/bg.jpg");
+	background-repeat: no-repeat; 
+	/*background-position: center;*/
+	background-size: cover;
+
+}
+
+/*Dashboard page BG*/
+
+.dbbgimage{
+	background-image: url("img/dashboard-bg.jpg");
+	background-repeat: no-repeat; 
+	/*background-position: center;*/
+	background-size: cover;
+
+}
+
+/*Appointment page BG*/
+
+.apbgimage{
+	background-image: url("img/ap-bg.jpg");
+	background-repeat: no-repeat; 
+	/*background-position: center;*/
+	background-size: cover;
+
+}
+
+/*Settings page BG*/
+
+.spbgimage{
+	background-image: url("img/settings-bg.jpg");
+	background-repeat: no-repeat; 
+	/*background-position: center;*/
+	background-size: cover;
+
+}
+
+/*Superadmin page BG*/
+
+.superbgimage{
+	background-image: url("img/bg.jpg");
+	background-repeat: no-repeat; 
+	/*background-position: center;*/
+	background-size: cover;
+
+}
+
+/*Logout page BG*/
+
+.logoutbgimage{
+	background-image: url("img/logout.jpg");
+	background-repeat: no-repeat; 
+	/*background-position: center;*/
+	background-size: cover;
+
+}
+
+/* ----End of Background Images of Pages---- */
+
+
+/* Form control placeholder text properties */
+
+.form-control::-webkit-input-placeholder {
+  color: #C1769A;
+  text-align: center;
+}
+
+/* ----End of Form control placeholder text properties---- */
+
+/* login page styles */
+
+.topspace{
+	margin-top: 300px;
+}
+
+#bpbutton{
+	background-color: #C1769A;
+	color: #ffffff;
+}
+
+/* ----End of login page styles---- */
+
+
+/*Nav style*/
+
+.themecolor{
+	background-color: #C1769A;
+	color: #C1769A;
+}
