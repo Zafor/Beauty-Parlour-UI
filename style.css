@@ -76,6 +76,7 @@
 
 /* login page styles */
 
+
 .topspace{
 	margin-top: 300px;
 }
@@ -94,3 +95,156 @@
 	background-color: #C1769A;
 	color: #C1769A;
 }
+
+
+/*Infobox for dashboard*/
+
+@media only screen and (min-width: 600px) {  
+
+.infobox{
+	font-size: 1rem;
+	text-align: center;
+	padding: 12px;
+	background : #C1769A;
+    color: #fff;
+    border-radius : 12px;
+    -moz-border-radius : 12px;
+    -webkit-border-radius : 12px;
+}
+
+}
+
+
+@media only screen and (min-width: 768px) {
+  
+.infobox{
+	font-size: 1.2rem;
+	text-align: center;
+	padding: 12px;
+	background : #C1769A;
+    color: #fff;
+    border-radius : 12px;
+    -moz-border-radius : 12px;
+    -webkit-border-radius : 12px;
+}
+
+}
+
+
+
+/*Top Space*/
+
+@media only screen and (min-width: 992px) {...}
+
+.topspacefordasboard{
+	margin-top: 150px;
+}
+
+@media only screen and (min-width: 768px) {...}
+
+.topspacefordasboard{
+	margin-top: 100px;
+}
+@media only screen and (min-width: 600px) {...}
+
+.topspacefordasboard{
+	margin-top: 50px;
+}
+
+.dbox{
+	font-size: 1.2rem;
+	text-align: center;
+	padding: 40px;
+	background : #C1769A;
+	color: #fff;
+ 
+}
+
+.main-nav-bgcolor{
+	background-color: #eb2182;
+}
+
+.main-nav-button-bg{
+	background-color: #eb2182;
+}
+
+
+/*Superadmin Page Styles*/
+
+.secondary-nav-bgcolor{
+	background-color:#b50e5e;
+}
+
+.secondary-nav-buttonbg{
+	background-color:#b50e5e;
+}
+
+
+/*Backup Page Styles*/
+
+.menu-button-style{
+	background-color:#eb2182;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 1.5rem;
+
+}
+
+.menu-button-style-active{
+	background-color:#b50e5e;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 1.5rem;
+	font-weight: bold;
+
+}
+
+.menu-button-style:hover{
+	color: #fff;
+	background-color:#b50e5e;
+	text-decoration: none;
+}
+
+
+.submenu-button-style-active{
+	background-color:#eb2182;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 1.5rem;
+	font-weight: bold;
+
+}
+
+.submenu-button-style{
+	background-color:#b50e5e;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 1.5rem;
+
+}
+
+
+.submenu-button-style:hover{
+	color: #fff;
+	background-color:#eb2182;
+	text-decoration: none;
+}
+
+.anchor-color{
+	color: #fff;
+
+}
+
+a:hover{
+	color: #fff;	
+	text-decoration: none;
+}
+
